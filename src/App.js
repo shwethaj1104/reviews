@@ -6,7 +6,7 @@ function App() {
       <section className='container'>
         <div className='title'>
           <h2> Check Out Our Reviews</h2>
-          <div className='underline'></div>
+          {/* <div className='underline'></div> */}
         </div>
         <Review />
       </section>

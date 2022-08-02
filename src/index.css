@@ -143,10 +143,12 @@ main {
   min-height: 100vh;
   display: grid;
   place-items: center;
+  background-color: #457b9d;
 }
 .title {
   text-align: center;
   margin-bottom: 2rem;
+  color: white;
 }
 .underline {
   height: 0.25rem;
