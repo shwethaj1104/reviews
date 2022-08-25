@@ -1,3 +1,5 @@
-# reviews
+# Reviews
+
+Application developed on React.js
 
 ![image](https://user-images.githubusercontent.com/107784718/182288457-a3280da8-d6b1-43dd-9469-eb582286053b.png)
