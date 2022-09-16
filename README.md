@@ -1,4 +1,4 @@
-# Reviews
+# Reviews app
 
 Application developed on React.js
 
