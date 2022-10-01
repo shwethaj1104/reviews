@@ -1,6 +1,6 @@
 # Reviews Application
 
-Application developed on React.js
+Application developed on React.js version
 
 Checkout application at : https://reviews-ashy.vercel.app/
 
