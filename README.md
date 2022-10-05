@@ -1,6 +1,6 @@
 # Reviews Application
 
-Review Application developed on React.js version 18.
+Review App developed on React.js version 18.
 
 Checkout application at vercel : https://reviews-ashy.vercel.app/
 
